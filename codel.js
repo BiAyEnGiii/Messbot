@@ -1,3 +1,0 @@
-{
-  "ToiLaAdmin": "message.send(`helu`)"
-  }
