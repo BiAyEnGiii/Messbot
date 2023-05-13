@@ -9,6 +9,6 @@
  {
   "name": "test2",
   "mess": "✅Chúc mừng.",
-  "rewards":"x2luck"
+  "rewards":"x2luck,x3luck,automine"
 }
 ]
